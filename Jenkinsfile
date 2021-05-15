@@ -9,5 +9,11 @@ pipeline {
                 sh 'go build'
             }
         }
+
+
+
+
+
+
     }
 }
